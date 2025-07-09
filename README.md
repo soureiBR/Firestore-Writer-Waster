@@ -6,7 +6,6 @@ Firestore Writer Waster tag allows recording data from server Google Tag Manager
 
 - Add Event Data - send all sGTM event data to the Firestore document
 - Merge document keys - merge keys into Firestore documents
-- Override Firebase Project ID - when enabled, Firestore Writer tag overrides the default Firebase project
 - Add Timestamp - adds timestamp in milliseconds
 
 ## Open Source
