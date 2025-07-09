@@ -10,4 +10,4 @@ Firestore Writer Waster tag allows recording data from server Google Tag Manager
 
 ## Open Source
 
-Firestore Writer Tag for GTM Server Side is developed and maintained by [Stape Team](https://stape.io/) under the Apache 2.0 license.
+Firestore Writer Waster Tag for GTM Server Side is developed and maintained by [Sourei Team](https://sourei.com.br/).
